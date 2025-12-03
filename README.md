@@ -1,0 +1,1 @@
+# ET713-2025-11-25-rails-ng-midterm-repo
